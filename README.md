@@ -19,7 +19,7 @@
 <div align="center">
     <p align="center">
         <h4 align="center">
-            <img src="https://i.ibb.co/Rg1ykCx/Venom-Consult.jpg" alt="VenomBot-md" width="300" />
+            <img src="https://i.ibb.co/W2YCkDR/Venom-Notif.jpg" alt="VenomBot-md" width="300" />
         </h4>
     </p>
 </div>
