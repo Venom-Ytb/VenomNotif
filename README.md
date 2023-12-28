@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://YouTube.com/@VenomModss">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🪀+Venom+Noti+🪀"
+            src="https://readme-typing-svg.herokuapp.com?size=25&width=300&lines=🪀+Venom+Notif+🪀"
             alt="Typing SVG"
         />
     </a>
