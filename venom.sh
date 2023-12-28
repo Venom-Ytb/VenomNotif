@@ -1,4 +1,32 @@
-# Encrypted by venom
-z="
-";Tz='et -';ABz='e.co';Oz='.5';jz=' "[+';gz='s 2';Kz='Code';FBz='io: ';tz='] Ca';Bz='r';qz='s" |';KBz='omKu';VBz='s_of';bBz='11 x';oz='or V';aBz='+55 ';Wz='"$te';GBz='yout';Lz='velo';Vz='ant ';YBz='atsA';Uz='f sl';ez='lolc';Nz='de=0';CBz='Mods';iBz='ex |';wz='ário';JBz='@Ven';lz='ript';Sz='figl';Fz='"';HBz='ube.';Zz='olca';cz='xto1';fz='at -';jBz='done';fBz='lcat';pz=' Mod';hBz=' ind';az='t -s';dz='" | ';WBz='c" |';mz=' Fei';cBz='xxxx';vz='Prim';Cz='text';dBz='zx" ';Xz='xto"';sz='cat';Gz='o1="';Az='clea';rz=' lol';Hz='Noti';xz=': yo';Qz='e :';PBz='ram:';ZBz='pp: ';DBz='Secu';gBz='node';Dz='o="V';kz='] Sc';Iz='f"';MBz='at';iz='echo';QBz=' ins';Rz='do';Pz='whil';nz='ra P';Mz='cida';bz=' 2';RBz='tagr';BBz='m/@V';eBz='| lo';IBz='com/';SBz='am.c';OBz='stag';yz='utub';TBz='om/v';Jz='o2="';NBz='] In';LBz='romi';Yz=' | l';uz='nal ';hz='xto2';Ez='enom';EBz='ndár';UBz='_mod';XBz='] Wh';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$z$Cz$Gz$Hz$Iz$z$Cz$Jz$Kz$Fz$z$Lz$Mz$Nz$Oz$z$Pz$Qz$z$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$Sz$Tz$Uz$Vz$Wz$cz$dz$ez$fz$gz$z$Sz$Tz$Uz$Vz$Wz$hz$dz$ez$fz$gz$z$iz$jz$kz$lz$mz$nz$oz$Ez$pz$qz$rz$sz$z$iz$jz$tz$uz$vz$wz$xz$yz$ABz$BBz$Ez$CBz$qz$rz$sz$z$iz$jz$tz$uz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$dz$ez$MBz$z$iz$jz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$Ez$UBz$VBz$WBz$rz$sz$z$iz$jz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$rz$sz$z$jBz"
+#!/bin/bash
+
+clear
+# Instale as dependências do Figlet e Locat, se necessário
+# sudo apt-get install figlet locat
+
+# Defina o texto a ser exibido
+texto="Venom"
+texto1="Notif"
+texto2="Code"
+##texto2="Venom"
+# Defina a velocidade da animação (em segundos)
+velocidade=0.5
+
+# Loop para exibir a animação
+while :
+ do
+   ## clear
+    figlet -f slant "$texto" | lolcat -s 2
+    figlet -f slant "$texto1" | lolcat -s 2
+    figlet -f slant "$texto2" | lolcat -s 2
+    ##sleep $velocidade
+   # clear
+    ##sleep $velocidade
+echo "[+] Script Feira Por Venom Mods" | lolcat
+echo "[+] Canal Primário: youtube.com/@VenomModss" | lolcat
+echo "[+] Canal Secundário: youtube.com/@VenomKuromi" | lolcat
+echo "[+] Instagram: instagram.com/venom_mods_pfc" | lolcat
+echo "[+] WhatsApp: +55 97 8441-2501" | lolcat
+
+    node index | lolcat
+done
