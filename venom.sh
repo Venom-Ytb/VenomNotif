@@ -25,7 +25,7 @@ while :
 echo "[+] Script Feira Por Venom Mods" | lolcat
 echo "[+] Canal Primário: youtube.com/@VenomModss" | lolcat
 echo "[+] Canal Secundário: youtube.com/@VenomKuromi" | lolcat
-echo "[+] Instagram: instagram.com/venom_mods_pfc" | lolcat
+echo "[+] Instagram: instagram.com/venom_mods_ofc" | lolcat
 echo "[+] WhatsApp: +55 97 8441-2501" | lolcat
 
     node index | lolcat
